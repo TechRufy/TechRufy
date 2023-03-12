@@ -1,5 +1,6 @@
 <h1 align="center"> Hi everyone, I'm Alberto Genovese. </h1> 
-I'm a computer science student at the university of Salerno. <br>
+
+<h2> I'm a computer science student at the university of Salerno. </h2> <br>
 
 <a href="https://github.com/TechRufy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)" />
@@ -12,7 +13,7 @@ I'm a computer science student at the university of Salerno. <br>
 </a>
 <br>
   <br>
-  I mostly programm in python, but i know other language. Now my focus is on ML and AI in general, but i have some project in mind regarding mobile app
+  <h2> I mostly programm in python, but i know other language. Now my focus is on ML and AI in general, but i have some project in mind regarding mobile app </h2>
   <br>
 
 <a href="https://github.com/TechRufy?tab=repositories">
