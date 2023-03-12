@@ -19,6 +19,7 @@ The project i'm currently working on
  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRufy&hide=html,TypeScript,CSS,C++,PowerShell,CMake,Swift,batchfile&layout=compact&theme=synthwave"/>
   </a>
   <br>
+  <br>
   
  ![](https://komarev.com/ghpvc/?username=TechRufy&color=brightgreen)
  
