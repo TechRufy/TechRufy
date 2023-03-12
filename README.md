@@ -13,5 +13,5 @@ The project i'm currently working on
   </a>
   
   
-  https://komarev.com/ghpvc/?username=TechRufy&color=brightgreen
+ ![](https://komarev.com/ghpvc/?username=TechRufy&color=brightgreen)
 
