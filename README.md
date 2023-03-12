@@ -15,7 +15,21 @@ The project i'm currently working on <br>
   </a>
   <br>
   I mostly programm in python, but i know other language. Now my focus is on ML and AI in general, but i have some project in mind regarding mobile app
+  
+  <br>
   <br>
   
+  
  ![](https://komarev.com/ghpvc/?username=TechRufy&color=brightgreen)
+ 
+ <br>
+ <br>
+ 
+ <h1>Links</h1>
+ 
+ <a href="[https://github.com/TechRufy/ML_Report.it](https://www.linkedin.com/in/alberto-genovese-269151229/)">
+  <img align="center" src="./node_modules/super-tiny-icons/images/svg/linkedin.svg" />
+</a>
+ 
+ 
 
