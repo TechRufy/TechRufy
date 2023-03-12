@@ -5,7 +5,7 @@ I'm a computer science student at the university of Salerno. <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)" />
 </a>
 <br>
-The project i'm currently working on 
+<h2>The project i'm currently working on </h2>
 <br>
 <a href="https://github.com/TechRufy/ML_Report.it">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechRufy&repo=ML_Report.it&theme=synthwave" />
