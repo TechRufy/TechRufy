@@ -1,6 +1,6 @@
 <h1 align="center"> Hi everyone, I'm Alberto Genovese. </h1> 
 
-<p> I'm a computer science student at the university of Salerno. </p> <br>
+<b><p align="center"> I'm 21 and i study computer science at the university of Salerno. </p> </b><br>
 
 <a href="https://github.com/TechRufy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)" />
