@@ -1,5 +1,5 @@
-<h1 align="center"> Hi, everyone, my name is Alberto Genovese. </h1>
-I'm a computer science student at the university of Salerno.
+<h1 align="center"> Hi everyone, I'm Alberto Genovese. </h1> 
+I'm a computer science student at the university of Salerno. <br>
 
 <a href="https://github.com/TechRufy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)" />
