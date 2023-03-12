@@ -28,7 +28,7 @@ The project i'm currently working on <br>
  <h1>Links</h1>
  
  <a href="[https://github.com/TechRufy/ML_Report.it](https://www.linkedin.com/in/alberto-genovese-269151229/)">
-  <img align="center" src="./node_modules/super-tiny-icons/images/svg/linkedin.svg" />
+  <img align="center" src="./node_modules/super-tiny-icons/images/svg/LinkedIn.svg" />
 </a>
  
  
