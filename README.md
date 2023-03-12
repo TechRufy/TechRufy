@@ -1,3 +1,5 @@
+import logo from "super-tiny-icons/images/svg/LinkedIn.svg";
+
 Hi, everyone, my name is Alberto Genovese. <br>
 I'm a computer science student at the university of Salerno.
 
@@ -28,7 +30,7 @@ The project i'm currently working on <br>
  <h1>Links</h1>
  
  <a href="[https://github.com/TechRufy/ML_Report.it](https://www.linkedin.com/in/alberto-genovese-269151229/)">
-  <img align="center" src="./node_modules/super-tiny-icons/images/svg/LinkedIn.svg" />
+  <img align="center" src=logo/>
 </a>
  
  
