@@ -10,11 +10,13 @@ The project i'm currently working on <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechRufy&repo=ML_Report.it&theme=synthwave" />
 </a>
 <br>
+
+  <br>
+  I mostly programm in python, but i know other language. Now my focus is on ML and AI in general, but i have some project in mind regarding mobile app
+
 <a href="https://github.com/TechRufy?tab=repositories">
  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRufy&hide=html,TypeScript,CSS,C++,PowerShell,CMake,Swift,batchfile&layout=compact&theme=synthwave"/>
   </a>
-  <br>
-  I mostly programm in python, but i know other language. Now my focus is on ML and AI in general, but i have some project in mind regarding mobile app
   
   <br>
   <br>
@@ -28,7 +30,7 @@ The project i'm currently working on <br>
  <h1>Links</h1>
  
  <a href="https://www.linkedin.com/in/alberto-genovese-269151229">
-  <img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" height=10 width= 10/>
+  <img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" height=20 width= 20/>
 </a>
  
  
