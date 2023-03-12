@@ -1,3 +1,13 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TechRufy&repo=ML_Report.it&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechRufy&hide=javascript,html,TypeScript&layout=compact&theme=synthwave)
+Hi, everyone, my name is Alberto Genovese.
+I'm a computer science's student at the university of Salerno.
+
+<a href="https://github.com/TechRufy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)" />
+</a>
+<a href="https://github.com/TechRufy/ML_Report.it">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechRufy&repo=ML_Report.it&theme=synthwave" />
+</a>
+<a href="">
+ <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRufy&hide=javascript,html,TypeScript&layout=compact&theme=synthwave"/>
+  </a>
+
