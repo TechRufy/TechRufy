@@ -11,7 +11,7 @@ The project i'm currently working on <br>
 </a>
 <br>
 <a href="https://github.com/TechRufy?tab=repositories">
- <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRufy&hide=javascript,html,TypeScript,CSS,C++,PowerShell&layout=compact&theme=synthwave"/>
+ <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechRufy&hide=html,TypeScript,CSS,C++,PowerShell&layout=compact&theme=synthwave"/>
   </a>
   <br>
   I mostly programm in python, but i know other language. Now my focus is on ML and AI in general, but i have some project in mind regarding mobile app
