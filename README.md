@@ -1,4 +1,4 @@
-Hi, everyone, my name is Alberto Genovese. <br>
+<h1 align="center"> Hi, everyone, my name is Alberto Genovese. </h1>
 I'm a computer science student at the university of Salerno.
 
 <a href="https://github.com/TechRufy">
