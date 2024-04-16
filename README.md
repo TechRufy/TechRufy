@@ -8,8 +8,8 @@
 <br>
 <h2>The project i'm currently working on </h2>
 <br>
-<a href="https://github.com/TechRufy/ML_Report.it">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechRufy&repo=ML_Report.it&theme=synthwave" />
+<a href="https://github.com/TechRufy/showdownBayesian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechRufy&repo=showdownBayesian&theme=synthwave" />
 </a>
 <br>
   <br>
