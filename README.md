@@ -1,6 +1,6 @@
 <h1 align="center"> Hi everyone, I'm Alberto Genovese. </h1> 
 
-<b><p align="center"> I'm 21 and i study computer science at the university of Salerno. </p> </b><br>
+<b><p align="center"> I'm 23 and I'm studying Artificial Intelligence at the university of Bologna. </p> </b><br>
 
 <a href="https://github.com/TechRufy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)" />
@@ -13,7 +13,7 @@
 </a>
 <br>
   <br>
-  <h2> I mostly programm in python, but i know other language. Now my focus is on ML and AI in general, but i have some project in mind regarding mobile app </h2>
+  <h2> I mostly programm in python, but i know other language. Now my focus is on ML and AI </h2>
   <br>
 
 <a href="https://github.com/TechRufy?tab=repositories">
