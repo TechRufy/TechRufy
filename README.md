@@ -1,6 +1,6 @@
 <h1 align="center"> Hi everyone, I'm Alberto Genovese. </h1> 
 
-<b><p align="center"> I'm 23 and I'm studying Artificial Intelligence at the university of Bologna. </p> </b><br>
+<b><p align="center"> I'm 24 and I'm studying Artificial Intelligence at the university of Bologna. </p> </b><br>
 
 <a href="https://github.com/TechRufy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechRufy&theme=synthwave&show_icons=true)" />
