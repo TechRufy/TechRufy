@@ -1,8 +1,8 @@
 <h1 align="center"> Hi everyone, I'm Alberto Genovese. </h1> 
 
-💻 - Currrently working as manager of the Driverless division of the <img width="25" height="25" alt="cropped-ubm-logo-nuovo" src="https://github.com/user-attachments/assets/fe136973-5598-449c-bda0-8f04c3e81d2a" /> [Unibo Motorsport](https://motorsport.unibo.it/)    
+💻 - Currently working as manager of the Driverless division of the <img width="25" height="25" alt="cropped-ubm-logo-nuovo" src="https://github.com/user-attachments/assets/fe136973-5598-449c-bda0-8f04c3e81d2a" /> [Unibo Motorsport](https://motorsport.unibo.it/)    
 🏫 - Recently graduated from university \
-🎮 - Love to play videogame in my free time
+🎮 - Love to play videogames in my free time
 
 
 ## 🏎️ Latest Engineering Project
